@@ -1,0 +1,66 @@
+.nav-middle
+{
+    text-align: center;
+}
+
+.fs-48
+{
+    font-size: 48px;
+}
+
+.fs-24
+{
+    font-size: 24px;
+}
+
+.img-middle
+{
+    display: block;
+    margin: auto;
+}
+
+.recess
+{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+table.t-recess
+{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    border: 5px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 5px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2}
+  
+  th {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  th {
+    background-color: #04AA6D;
+    color: white;
+  }
